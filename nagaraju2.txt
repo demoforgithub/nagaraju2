@@ -1,4 +1,3 @@
 good
 bad
 value
-the is number of value
